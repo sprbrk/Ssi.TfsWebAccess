@@ -1,0 +1,52 @@
+﻿.tbTile .tbTileContent {
+    border-left: none;
+    border-right: 6px solid #95B3D7;
+}
+
+.tbTile.Deployment .tbTileContent {
+    border-right-color: #9695DB;
+    background-color: #DCDEF3;
+}
+.Deployment .witExtra .hover {
+    background-color: #DCDEF3;
+}
+
+.tbTile.Design .tbTileContent {
+    border-right-color: #C7D69D;
+    background-color: #EFF4DD;
+}
+.Design .witExtra .hover {
+    background-color: #EFF4DD;
+}
+
+.tbTile.Development .tbTileContent {
+    border-right-color: #CC93C6;
+    background-color: #F4DCF2;
+}
+.Development .witExtra .hover {
+    background-color: #F4DCF2;
+}
+
+.tbTile.Documentation .tbTileContent {
+    border-right-color: #D6C399;
+    background-color: #F5ECDB;
+}
+.Documentation .witExtra .hover {
+    background-color: #F5ECDB;
+}
+
+.tbTile.Requirements .tbTileContent {
+    border-right-color: #D19E9D;
+    background-color: #F4DCDC;
+}
+.Requirements .witExtra .hover {
+    background-color: #F4DCDC;
+}
+
+.tbTile.Testing .tbTileContent {
+    border-right-color: #9FC9B3;
+    background-color: #DDF4EA;
+}
+.Testing .witExtra .hover {
+    background-color: #DDF4EA;
+}

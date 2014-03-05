@@ -1,0 +1,8 @@
+﻿<WebAccess version="11.0">
+  <plugin name="TFS Color Coding By Activity Type" vendor="Springbrook Software, Inc." moreinfo="https://github.com/sprbrk/Ssi.TfsWebAccess" version="0.1.0" >
+    <modules>
+      <module namespace="ColorCodingEnhancement" loadAfter="TFS.Agile.TaskBoard"/>
+      <module namespace="ColorCodingEnhancement" loadAfter="TFS.Agile.Boards.Controls"/>
+    </modules>
+  </plugin>
+</WebAccess>
